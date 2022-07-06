@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80774574290",
+    "project_id": "cantwaitfilip",
+    "storage_bucket": "cantwaitfilip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80774574290:android:a81d85fbfea4b3ed077d0b",
+        "android_client_info": {
+          "package_name": "com.filiprogala.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80774574290-8t6gt31ucluj5vqphiu8ibs7ssch23qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVoEBoOdHNGnPm-AbkQJ9_t7QFbgJZ1mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80774574290-8t6gt31ucluj5vqphiu8ibs7ssch23qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
